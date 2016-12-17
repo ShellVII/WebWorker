@@ -1,0 +1,30 @@
+{
+  "name": "webworker",
+  "version": "0.0.1",
+  "description": "CMS for web sites",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShellVII/WebWorker.git"
+  },
+  "keywords": [
+    "cms",
+    "websites",
+    "web",
+    "processors"
+  ],
+  "author": "Jon Taylor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ShellVII/WebWorker/issues"
+  },
+  "homepage": "https://github.com/ShellVII/WebWorker#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.7.3"
+  }
+}
